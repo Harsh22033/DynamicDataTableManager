@@ -7,4 +7,3 @@ This submission implements of a Dynamic Data Table Manager using Next.js, Redux 
 ## How to Run
 npm install // on terminal
 npm run dev
-# open http://localhost:3000
